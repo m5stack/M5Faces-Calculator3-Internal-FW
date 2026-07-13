@@ -1,0 +1,6 @@
+Debug/Core/*
+Debug/Drivers/*
+Release/Core/*
+Release/Drivers/*
+Debug/Middlewares/Third_Party/FreeRTOS/Source/*
+Release/Middlewares/Third_Party/FreeRTOS/Source/*
